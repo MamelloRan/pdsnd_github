@@ -18,4 +18,4 @@
 ### Credits
 https://github.com/atom/markdown-preview/blob/master/README.md
 
-Enjoy! :tada: :tada:
+Enjoy!! :tada: :tada:
