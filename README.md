@@ -1,15 +1,21 @@
-### Date created
-Include the date you created this project and README file.
+## 30 April 2019
 
-### Project Title
-Replace the Project Title
+### Mamello's Bikeshare Project
 
-### Description
-Describe what your project is about and what it does
+###### Essentially, the *BikeShare Project* looks at ways that one can ascertain all *popular stations, start-times, end-times or any other cool metric* one would like to know about when looking at a large set of data about how people used public transport, such as the subway.
 
-### Files used
-Include the files used
+
+### Files used:
+- new_york_city.csv
+
+- chicago.csv
+
+- washington.csv
+
+### Access the project here:
+[MamelloRan Bikeshare Project](https://github.com/MamelloRan/pdsnd_github)
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://github.com/atom/markdown-preview/blob/master/README.md
 
+Enjoy! :tada: :tada:
