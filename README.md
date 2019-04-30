@@ -1,4 +1,4 @@
-## 30 April 2019
+## 30th April 2019
 
 ### Mamello's Bikeshare Project
 
