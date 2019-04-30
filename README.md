@@ -2,7 +2,7 @@
 
 ### Mamello's Bikeshare Project
 
-###### Essentially, the *BikeShare Project* looks at ways that one can ascertain all *popular stations, start-times, end-times or any other cool metric* one would like to know about when looking at a large set of data about how people used public transport, such as the subway.
+###### Essentially, the *BikeShare Project* looks at ways that one can ascertain all popular stations, start-times, end-times or any other cool metric one would like to know about when looking at a large set of data about how people used public transport, such as the subway.
 
 
 ### Files used:
